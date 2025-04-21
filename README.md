@@ -3,8 +3,11 @@ Collection of themes for the official [Zen browser theme store](https://zen-brow
 
 ## Bigger Mute Button 🔈
 **Description:** 
-- Increases size of audio icon and hides the tab's sound labels. 
-- The tab icon is replaced by the audio icon if the tabs are not expanded.
+- Increases size of sound icon and changes its position.
+  - Expanded tab sidebar: Sound icon is placed to the right of the tab favicon.
+  - Split tabs (expanded tab sidebar): Sound icon takes the place of the tab favicon.
+  - Collapsed tab sidebar: Sound icon takes the place of the tab favicon.
+  - Essentials tabs: Sound icon takes the place of the tab favicon.
 
-**Preview**
+**Preview:**
 > ![Preview image](/bigger-mute-button/preview.png)
